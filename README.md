@@ -1,7 +1,7 @@
-# Projeto_Omega
+# EngenhaCalc Materiais
 Aplicativo para o auxílio em cálculos para a disciplina de Ciência dos Materiais.
 
-Arquivos salvos (Ex. Cálculos) ficarão salvos na pasta "ResultadosProjetoOmega" localizada na área de trabalho
+Arquivos salvos (Ex. Cálculos) ficarão salvos na pasta "Resultados" localizada na mesma pasta do script
 
 Dúvidas ou problemas entrar em contato pelos dados fornecidos na opção "Informações (0)"
 

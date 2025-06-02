@@ -11,14 +11,8 @@ pi = float(math.pi)
 na = float(6.02214129e23)
 k = float(8.62e-5)
 r = float(8.31)
-# Caminho dos arquivos de texto
-caminho = os.environ["HOMEPATH"]
-diretorio = "C:" + caminho + "\\Desktop\\"
-pasta = diretorio + "ResultadosProjetoOmega\\"
 
-# Recepção do usuário
-username = os.environ["USERNAME"]
-print(f"Olá {username}.\n")
+pasta = "Resultados/"
 
 while True:
 
@@ -35,7 +29,7 @@ while True:
     )
 
     if init_Select == "n":
-        print("Saindo. Obrigado por usar o app :)")
+        print("Saindo.")
         time.sleep(1)
         sys.exit()
 
@@ -823,7 +817,6 @@ while True:
 
     if init_Select == "0":
         print(
-            "Dev: João Pedro Lopes \n"
             "GitHub: ja1-lopes \n"
-            "Contato: Telegram(@ja1_lopes) E-mail(lopes_230202@outlook.com) \n"
+            "Contato: Telegram(@ja1_lopes)\n"
         )
